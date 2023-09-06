@@ -3,6 +3,7 @@
 * Email: lakshayghai@gmail.com  
 * Address: PA (US)
 * [LinkendIn Profile](http://linkedin.com/in/lakshay-ghai "Profile")
+
 ---
 ### PROFESSIONAL SUMMARY  
 * Lakshay is a technology enthusiast with Master's Degree in Computer Science and 13 Years of total experience as Leader and Programmer. From Last 5+ Years managing teams ranging from 5-15 people across continents.  
@@ -11,6 +12,7 @@ He has also gained good knowledge of Java, Kotlin, NodeJS Concepts and Applicati
 In last 3+ years gained knowledge and implemented containerization using Jenkins, Docker, Kubernetes, spinnaker, JFrog etc.     
 Lakshay is a calm, focused, dedicated and self-motivated guy with excellent communication, presentation and organizational skills. He has ability to communicate effectively with both technical and non-technical people.  
 In his spare time he likes playing soccer and keep track of new technologies.
+
 ---
 ### Top Skills
 |                    |                   |                            |
@@ -22,8 +24,10 @@ In his spare time he likes playing soccer and keep track of new technologies.
 | Redis (data store) | ElasticSearch     | Kibana                     |
 | Team Leadership    | Team Management   | Executive Management       |
 | Auth0              | Spring Security   | OAuth2                     |
+
 ---
 ### EXPERIENCE
+
 #### Mar. 2022 - Present | *Staff Distributed Systems Engineer, Narvar Inc.*
 * Own the architecture of new product platforms to drive business results and support extending existing ones.  
 * Implement scalable architecture and work on a committed team contributing to robust projects  
@@ -35,6 +39,7 @@ In his spare time he likes playing soccer and keep track of new technologies.
 * Monitor system operation to detect potential problems using openTelemetry (Datadog, New Relic )
 * Work with cross-functional stakeholders including Product, Design, Sales and Engineering Leadership to help break down business requirements into actionable plans
 * Mentoring junior engineers on design coding and troubleshooting.
+
 #### Oct. 2018 - Present | Founder, CricFantasy.
 * Design, Develop and Architect complete End to End Flow of the Product.
 * Write Backend webservices using Java, Spring Boot. Microservice Architecture with Realtime Streaming and messaging using Kafka and RabbitMQ.
@@ -44,6 +49,7 @@ In his spare time he likes playing soccer and keep track of new technologies.
 * Setup Infrastructure using Terraform/Pulumi on AWS and GCP
 * Setup CI/CD using bitbucket pipelines Gitops - ArgoCD, Docker and Kubernetes
 * Hired new team members to work on UI Setup Monitoring
+
 #### Feb. 2019 - Mar. 2022 | Principal Engineer, ShopRunner Inc (Acquired by FedEx).
 * Implement new features and work closely with the product and design teams
 * Build for the future by designing maintainable and well-tested systems to serve a global audience of millions of concurrent users
@@ -58,6 +64,7 @@ In his spare time he likes playing soccer and keep track of new technologies.
 * Monitor system operation using logs and metrics. Using OpenTelemetry (Grafana, Loki, Prometheus, Datadog)
 * Help guide and mentor team members through pairing sessions and code reviews
 * Troubleshoot unexpected issues across various systems because being the most popular is hard and fun:)
+
 #### Aug. 2017 - Dec. 2018 | Technical Lead, SEI Investments.
 * Developing and designing technical solutions based on reading and understanding business and functional requirements following the Agile process
 * Writing high-quality code using Java, Spring Framework to meet all project deadlines and ensuring the functionality matches the requirements
@@ -66,6 +73,7 @@ In his spare time he likes playing soccer and keep track of new technologies.
 * Analyzing and resolving issues found during the testing or pre-production phases of the software delivery lifecycle
 * Coordinating changes with project team leaders and crosswork team members
 * Providing technical leadership to project team members and responding to inquiries regarding errors or questions about programs
+
 #### Jul. 2014 - Aug. 2017 | Senior Software Developer, PECO Energy.
 * Java application development and testing in accordance with existing framework and architecture for the PECO AMI Outage project
 * Deliver testing components to support PECO AMI Outage Iterations
@@ -81,6 +89,7 @@ In his spare time he likes playing soccer and keep track of new technologies.
 * Development of web layers by using Struts2 framework.
 * Knowledge transfer to other PECO AMI Project Team Members and PECO AMI Operations personnel
 * Weekly Status Report to PECO AMI Outage Enhancements Project Lead
+
 #### Jul. 2011 - Jun. 2014 | Java Developer, SEI Investments.
 * Development of backend services using Java and Spring framework.
 * Designing & Development of GUI using JSP, CSS, AJAX.
@@ -90,12 +99,17 @@ In his spare time he likes playing soccer and keep track of new technologies.
 * Weblogic application server used.
 * Oracle 11g used as database
 * Providing technical help to new team members.
+
 ---
 ### EDUCATION
+
 #### 2021 | Certificate: Organizational Leadership
 * Harvard Business School Online
+
 #### 2011 | Master of Computer Applications
 * Lal Bahadur Shastri Institute of Management
+
 #### 2008 | Bachelor of Science: (BSc) in Computer Science
 * Hansraj College
+
 ---
