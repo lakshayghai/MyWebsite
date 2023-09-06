@@ -4,8 +4,8 @@
 * Address: PA (US)
 * [LinkendIn Profile](http://linkedin.com/in/lakshay-ghai "Profile")
 ---
-### PROFESSIONAL SUMMARY
-Lakshay is a technology enthusiast with Master's Degree in Computer Science and 13 Years of total experience as Leader and Programmer. From Last 5+ Years managing teams ranging from 5-15 people across continents.  
+### PROFESSIONAL SUMMARY  
+* Lakshay is a technology enthusiast with Master's Degree in Computer Science and 13 Years of total experience as Leader and Programmer. From Last 5+ Years managing teams ranging from 5-15 people across continents.  
 In these months he has developed a sound understanding of Agile Principles and practices Scrum.  
 He has also gained good knowledge of Java, Kotlin, NodeJS Concepts and Application Frameworks like Spring Cloud, Spring Security, Microservices, Hibernate and JPA. He also has knowledge of Cloud Services using Amazon Web Services and Google Cloud Platform.  
 In last 3+ years gained knowledge and implemented containerization using Jenkins, Docker, Kubernetes, spinnaker, JFrog etc.     
