@@ -1,6 +1,6 @@
 # LAKSHAY GHAI
 * Phone: +1 4848628139  
-* Email: lakshayghai@gmail.com  
+* Email: hello@lakshayghai.com  
 * Address: PA (US)
 * [LinkendIn Profile](http://linkedin.com/in/lakshay-ghai "Profile")
 
@@ -40,7 +40,7 @@ In his spare time he likes playing soccer and keep track of new technologies.
 * Work with cross-functional stakeholders including Product, Design, Sales and Engineering Leadership to help break down business requirements into actionable plans
 * Mentoring junior engineers on design coding and troubleshooting.
 
-#### Oct. 2018 - Present | Founder, CricFantasy.
+#### Oct. 2018 - Present | *Founder, CricFantasy.*
 * Design, Develop and Architect complete End to End Flow of the Product.
 * Write Backend webservices using Java, Spring Boot. Microservice Architecture with Realtime Streaming and messaging using Kafka and RabbitMQ.
 * Architect AuthZ and AuthN using Okta/Auth0.
@@ -50,7 +50,7 @@ In his spare time he likes playing soccer and keep track of new technologies.
 * Setup CI/CD using bitbucket pipelines Gitops - ArgoCD, Docker and Kubernetes
 * Hired new team members to work on UI Setup Monitoring
 
-#### Feb. 2019 - Mar. 2022 | Principal Engineer, ShopRunner Inc (Acquired by FedEx).
+#### Feb. 2019 - Mar. 2022 | *Principal Engineer, ShopRunner Inc (Acquired by FedEx).*
 * Implement new features and work closely with the product and design teams
 * Build for the future by designing maintainable and well-tested systems to serve a global audience of millions of concurrent users
 * Own the design and development of application services in a stable and scalable microservices architecture
@@ -65,7 +65,7 @@ In his spare time he likes playing soccer and keep track of new technologies.
 * Help guide and mentor team members through pairing sessions and code reviews
 * Troubleshoot unexpected issues across various systems because being the most popular is hard and fun:)
 
-#### Aug. 2017 - Dec. 2018 | Technical Lead, SEI Investments.
+#### Aug. 2017 - Dec. 2018 | *Technical Lead, SEI Investments.*
 * Developing and designing technical solutions based on reading and understanding business and functional requirements following the Agile process
 * Writing high-quality code using Java, Spring Framework to meet all project deadlines and ensuring the functionality matches the requirements
 * Building Highly performant search systems using ElasticSearch, Logstash.
@@ -74,7 +74,7 @@ In his spare time he likes playing soccer and keep track of new technologies.
 * Coordinating changes with project team leaders and crosswork team members
 * Providing technical leadership to project team members and responding to inquiries regarding errors or questions about programs
 
-#### Jul. 2014 - Aug. 2017 | Senior Software Developer, PECO Energy.
+#### Jul. 2014 - Aug. 2017 | *Senior Software Developer, PECO Energy.*
 * Java application development and testing in accordance with existing framework and architecture for the PECO AMI Outage project
 * Deliver testing components to support PECO AMI Outage Iterations
 * Integrating with third party API's for meter alarms and outages.
@@ -90,7 +90,7 @@ In his spare time he likes playing soccer and keep track of new technologies.
 * Knowledge transfer to other PECO AMI Project Team Members and PECO AMI Operations personnel
 * Weekly Status Report to PECO AMI Outage Enhancements Project Lead
 
-#### Jul. 2011 - Jun. 2014 | Java Developer, SEI Investments.
+#### Jul. 2011 - Jun. 2014 | *Java Developer, SEI Investments.*
 * Development of backend services using Java and Spring framework.
 * Designing & Development of GUI using JSP, CSS, AJAX.
 * Worked for the EJB and Business Logic Solutions.
