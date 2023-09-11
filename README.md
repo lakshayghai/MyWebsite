@@ -15,15 +15,16 @@ In his spare time he likes playing soccer and keep track of new technologies.
 
 ---
 ### Top Skills
-|                    |                   |                            |
-|--------------------|-------------------|----------------------------|
-| Java               | Kotlin            | NodeJs                     |
-| Spring Boot        | Spring Framework  | Agile Software Development |
-| PostgreSQL         | MySQL             | DynamoDb                   |
-| Big Table          | REST              | GraphQL                    |
-| Redis (data store) | ElasticSearch     | Kibana                     |
-| Team Leadership    | Team Management   | Executive Management       |
-| Auth0              | Spring Security   | OAuth2                     |
+|                      |                       |                            |
+|----------------------|-----------------------|----------------------------|
+| Java                 | Kotlin                | NodeJs                     |
+| Spring Boot          | Spring Framework      | Agile Software Development |
+| PostgreSQL           | MySQL                 | DynamoDb                   |
+| Big Table            | REST                  | GraphQL                    |
+| Amazon Web Services  | Google Cloud Platform | Next Js                    |
+| Redis (data store)   | ElasticSearch         | Kibana                     |
+| Team Leadership      | Team Management       | Executive Management       |
+| Auth0                | Spring Security       | OAuth2                     |
 
 ---
 ### EXPERIENCE
