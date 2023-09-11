@@ -1,3 +1,4 @@
 markdown: GFM
 name: true
 title: false
+show_downloads: true
