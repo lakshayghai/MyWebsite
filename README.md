@@ -1,6 +1,5 @@
-# LAKSHAY GHAI
-* Phone: +1 4848628139  
-* Email: hello@lakshayghai.com  
+# LAKSHAY GHAI  
+* Email: hello@13572468.xyz  
 * Address: PA (US)
 * [LinkendIn Profile](http://linkedin.com/in/lakshay-ghai "Profile")
 
